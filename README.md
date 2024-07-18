@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-djayfitz11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djayfitz11@gmail.com)](mailto:djayfitz11@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://regulating.github.io/)
-- ⚡ The first rule when programming: If its not broke, don’t fix it.🤓
+- ⚡ The first rule when programming: "if it ain't broke, don't fix it" 🤓
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
