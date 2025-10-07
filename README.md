@@ -5,10 +5,10 @@
 ### A passionate developer with a focus on Backend Development, Machine Learning, and Cybersecurity.
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/jay-fitz/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://regulating.github.io/" target="_blank">
+  <a href="https://www.jayfitzgerald.co.uk/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-4682B4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="mailto:djayfitz11@gmail.com">
