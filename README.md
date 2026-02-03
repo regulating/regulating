@@ -36,12 +36,3 @@
     <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,dotnet,docker,linux,git,html,css,electron,illustrator,photoshop&theme=dark" />
   </a>
 </p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=regulating&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regulating&layout=compact&theme=dark&border_color=61dafb&hide_border=true" />
-</p>
