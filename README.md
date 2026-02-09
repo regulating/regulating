@@ -44,4 +44,4 @@ I am a customer-focused professional currently balancing my professional work wi
 
 ### 📊 Education & Certifications
 * **FdSc Cyber Security** – University of Plymouth (In Progress)
-* **Level 3 Extended Diploma in Computing (Merit)** – City College PlymouthHello World
+* **Level 3 Extended Diploma in Computing (Merit)** – City College Plymouth
