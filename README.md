@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Jay Fitzgerald <img src="https://github.com/regulating/regulating/blob/main/assets/python_logo.gif?raw=true" width="30px">
+# Hi there, I'm Jay Fitzgerald 👋
 
 ### Cybersecurity Student | Backend Developer | Technical Support Specialist
 
